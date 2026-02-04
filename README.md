@@ -64,7 +64,7 @@ src/
 │   └── AppError.js
 ├── db/
 │   └── db.js
-├── app.js
+├── index.js
 
 🗄 Database Schema
 users
@@ -177,3 +177,4 @@ Load balancers can be introduced for high traffic
 
 Pritam Kumar
 Backend Developer Intern Candidate
+
